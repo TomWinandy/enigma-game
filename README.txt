@@ -3,7 +3,7 @@ Enigma Game - README
 This project was realized by Elior Papiernik & Tom Winandy in the context of the course CS-107/
 
 To launch the game, you must run the Play file (package: ch.epfl.cs107.play)
-You can change the game to be started by replacing “Enigma ()” with “Demo1 ()” or “Demo2” in the Play file. (You will have to do the imports accordingly).
+You can change the game to be started by replacing “Enigme ()” with “Demo1 ()” or “Demo2” in the Play file. (You will have to do the imports accordingly).
 
 Orders :
 - directional arrows to move
