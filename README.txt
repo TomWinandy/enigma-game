@@ -45,3 +45,6 @@ Its goal is to go through the door of the castle in front of which you appear. W
        - Retrieve the key using the stick, facing the remaining stone
    - Having retrieved the key, the door will be opened, and you can go through it
 - The door that you will pass by having solved the riddle of door 5 will send you to another riddle, where you will only have to light the four torches to unlock the door, which will give you access to the LevelSelector again.
+
+![alt text](https://github.com/TomWinandy/enigma-game/blob/main/example.png?raw=true)
+
