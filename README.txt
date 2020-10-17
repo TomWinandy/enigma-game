@@ -49,7 +49,3 @@ Its goal is to go through the door of the castle in front of which you appear. W
 The image below show the example of graphics similar to our game.
 
 ![alt text](https://github.com/TomWinandy/enigma-game/blob/main/example.png?raw=true)
-![alt text](https://github.com/TomWinandy/enigma-game/main/example.png?raw=true)
-
-
-
