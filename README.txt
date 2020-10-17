@@ -47,5 +47,5 @@ Its goal is to go through the door of the castle in front of which you appear. W
 - The door that you will pass by having solved the riddle of door 5 will send you to another riddle, where you will only have to light the four torches to unlock the door, which will give you access to the LevelSelector again.
 
 The image below show the example of graphics similar to our game.
-
 ![alt text](https://github.com/TomWinandy/enigma-game/blob/main/example.png?raw=true)
+
